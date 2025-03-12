@@ -4,6 +4,11 @@
 
 Ce projet, réalisé avec Canva et l'aide de Trustpilot, propose une stratégie marketing complète pour Go Outdoors, une entreprise spécialisée dans les équipements de loisirs et d'activités en plein air.
 
+|            |
+|:----------:|
+| ![Page de Garde 2 ](https://github.com/user-attachments/assets/a8ceb705-9531-4394-a3db-5c4f176fe0c1) |
+
+
 *🎯 Objectifs du projet*
 
 - Renforcer la notoriété de la marque grâce aux réseaux sociaux et au marketing événementiel.
