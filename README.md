@@ -15,13 +15,19 @@ Ce projet, réalisé avec Canva et l'aide de Trustpilot, propose une stratégie 
 - Promouvoir la sécurité et le plaisir dans les sports d’hiver.
 - Sensibiliser à la préservation de l’environnement via des partenariats et des actions communautaires.
 - Construire la confiance avec les clients en utilisant des témoignages et des avis Trustpilot.
+
+*⚙️ Comment utiliser ce projet ?*
+
+- Téléchargez le fichier sur github.
+- Parcourez les différentes slides pour explorer les données, comparer les indicateurs, et suivre le cheminement narratif du projet.
+
   
 *⚙️ Stratégies mises en place*
 
-- Marketing digital : Contenus informatifs, guides interactifs, et campagnes sur les réseaux sociaux.
-- Partenariats : Collaboration avec des écoles de ski et des associations pour des événements outdoor.
-- Événementiel : Organisation de la "Go Outdoors Convention" pour renforcer le lien avec la communauté.
-- Campagnes de témoignages : Utilisation d’avis clients et de contenu généré par les utilisateurs.
+- **Marketing digital** : Contenus informatifs, guides interactifs, et campagnes sur les réseaux sociaux.
+- **Partenariats** : Collaboration avec des écoles de ski et des associations pour des événements outdoor.
+- **Événementiel** : Organisation de la "Go Outdoors Convention" pour renforcer le lien avec la communauté.
+- **Campagnes de témoignages** : Utilisation d’avis clients et de contenu généré par les utilisateurs.
   
 *🛠️ Outils et technologies utilisés*
 
