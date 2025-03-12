@@ -28,3 +28,11 @@ Ce projet, réalisé avec Canva et l'aide de Trustpilot, propose une stratégie 
 - Canva : Pour la création des visuels et des supports de présentation.
 - Trustpilot : Pour la collecte et la mise en valeur des avis clients.
 - Réseaux sociaux : Facebook, Instagram, X (Twitter), YouTube pour la diffusion des campagnes.
+
+  *📄 Licence*
+
+Ce projet est protégé par la licence CC BY-ND 4.0.
+
+- Vous êtes autorisé à consulter, télécharger et partager ce projet à condition de créditer l'auteur original.
+- Vous **n'êtes pas autorisé** à modifier, transformer ou adapter le contenu.
+- Toute utilisation doit mentionner l'auteur : Nadir BOUDJERIDA.
